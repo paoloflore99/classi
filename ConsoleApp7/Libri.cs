@@ -8,5 +8,6 @@ namespace ConsoleApp7
 {
     internal class Libri : Documenti
     {
+        public int NumeroPagine {  get; set; }
     }
 }

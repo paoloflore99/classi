@@ -8,5 +8,6 @@ namespace ConsoleApp7
 {
     internal class DVD : Documenti
     {
+        public int Durata {  get; set; }
     }
 }
